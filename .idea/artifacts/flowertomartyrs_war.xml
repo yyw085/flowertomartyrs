@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="flowertomartyrs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="flowertomartyrs-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="flowertomartyrs:war exploded" />
+    </root>
+  </artifact>
+</component>
